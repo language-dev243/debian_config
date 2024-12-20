@@ -1,0 +1,9 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "files.autoSaveDelay": 1,
+    "glassit.alpha": 220,
+    "workbench.colorTheme": "1984"
+}

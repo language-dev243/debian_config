@@ -1,0 +1,14 @@
+2024-12-17 21:10:17.704 [info] Getting Manifest... pkief.material-icon-theme
+2024-12-17 21:10:18.306 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-17 21:10:20.081 [info] Extension signature verification result for pkief.material-icon-theme: Success. Executed: true. Duration: 1180ms.
+2024-12-17 21:10:21.013 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/pkief.material-icon-theme-5.16.0: pkief.material-icon-theme
+2024-12-17 21:10:21.052 [info] Renamed to /home/languagedev/.vscode/extensions/pkief.material-icon-theme-5.16.0
+2024-12-17 21:10:21.078 [info] Marked extension as uninstalled pkief.material-icon-theme-5.15.0
+2024-12-17 21:10:21.093 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 21:10:21.163 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

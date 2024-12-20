@@ -1,0 +1,182 @@
+2024-12-17 14:20:25.152 [info] Getting Manifest... christian-kohler.npm-intellisense
+2024-12-17 14:20:25.152 [info] Getting Manifest... dracula-theme.theme-dracula
+2024-12-17 14:20:25.152 [info] Getting Manifest... steoates.autoimport
+2024-12-17 14:20:25.154 [info] Getting Manifest... rvest.vs-code-prettier-eslint
+2024-12-17 14:20:25.154 [info] Getting Manifest... bracketpaircolordlw.bracket-pair-color-dlw
+2024-12-17 14:20:25.155 [info] Getting Manifest... rodrigovallades.es7-react-js-snippets
+2024-12-17 14:20:25.155 [info] Getting Manifest... christian-kohler.path-intellisense
+2024-12-17 14:20:25.155 [info] Getting Manifest... pkief.material-icon-theme
+2024-12-17 14:20:25.156 [info] Getting Manifest... yzhang.markdown-all-in-one
+2024-12-17 14:20:25.156 [info] Getting Manifest... formulahendry.auto-close-tag
+2024-12-17 14:20:25.156 [info] Getting Manifest... juanmnl.vscode-theme-1984
+2024-12-17 14:20:25.156 [info] Getting Manifest... s-nlf-fh.glassit
+2024-12-17 14:20:25.157 [info] Getting Manifest... xabikos.javascriptsnippets
+2024-12-17 14:20:25.157 [info] Getting Manifest... xabikos.reactsnippets
+2024-12-17 14:20:25.157 [info] Getting Manifest... ecmel.vscode-html-css
+2024-12-17 14:20:25.158 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-12-17 14:20:25.158 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2024-12-17 14:20:25.158 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2024-12-17 14:20:25.350 [info] Installing extension: christian-kohler.npm-intellisense {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.350 [info] Installing extension: christian-kohler.path-intellisense {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.350 [info] Installing extension: bracketpaircolordlw.bracket-pair-color-dlw {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.350 [info] Installing extension: dracula-theme.theme-dracula {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.351 [info] Installing extension: steoates.autoimport {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.351 [info] Installing extension: formulahendry.auto-close-tag {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.351 [info] Installing extension: s-nlf-fh.glassit {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.351 [info] Installing extension: rvest.vs-code-prettier-eslint {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.352 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.352 [info] Installing extension: rodrigovallades.es7-react-js-snippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.352 [info] Installing extension: yzhang.markdown-all-in-one {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.352 [info] Installing extension: xabikos.reactsnippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.353 [info] Installing extension: xabikos.javascriptsnippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.353 [info] Installing extension: juanmnl.vscode-theme-1984 {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.353 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.353 [info] Installing extension: ecmel.vscode-html-css {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.354 [info] Installing extension: bradlc.vscode-tailwindcss {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.356 [info] Installing extension: streetsidesoftware.code-spell-checker {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json","path":"/home/languagedev/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-17 14:20:25.356 [info] Installing the extension without checking dependencies and pack christian-kohler.npm-intellisense
+2024-12-17 14:20:25.357 [info] Installing the extension without checking dependencies and pack christian-kohler.path-intellisense
+2024-12-17 14:20:25.357 [info] Installing the extension without checking dependencies and pack bracketpaircolordlw.bracket-pair-color-dlw
+2024-12-17 14:20:25.359 [info] Installing the extension without checking dependencies and pack dracula-theme.theme-dracula
+2024-12-17 14:20:25.359 [info] Installing the extension without checking dependencies and pack steoates.autoimport
+2024-12-17 14:20:25.360 [info] Installing the extension without checking dependencies and pack formulahendry.auto-close-tag
+2024-12-17 14:20:25.360 [info] Installing the extension without checking dependencies and pack s-nlf-fh.glassit
+2024-12-17 14:20:25.360 [info] Installing the extension without checking dependencies and pack rvest.vs-code-prettier-eslint
+2024-12-17 14:20:25.361 [info] Installing the extension without checking dependencies and pack dbaeumer.vscode-eslint
+2024-12-17 14:20:25.361 [info] Installing the extension without checking dependencies and pack rodrigovallades.es7-react-js-snippets
+2024-12-17 14:20:25.361 [info] Installing the extension without checking dependencies and pack yzhang.markdown-all-in-one
+2024-12-17 14:20:25.361 [info] Installing the extension without checking dependencies and pack xabikos.reactsnippets
+2024-12-17 14:20:25.362 [info] Installing the extension without checking dependencies and pack xabikos.javascriptsnippets
+2024-12-17 14:20:25.362 [info] Installing the extension without checking dependencies and pack juanmnl.vscode-theme-1984
+2024-12-17 14:20:25.362 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2024-12-17 14:20:25.362 [info] Installing the extension without checking dependencies and pack ecmel.vscode-html-css
+2024-12-17 14:20:25.362 [info] Installing the extension without checking dependencies and pack bradlc.vscode-tailwindcss
+2024-12-17 14:20:25.363 [info] Installing the extension without checking dependencies and pack streetsidesoftware.code-spell-checker
+2024-12-17 14:20:35.472 [info] Extension signature verification result for juanmnl.vscode-theme-1984: Success. Executed: true. Duration: 9268ms.
+2024-12-17 14:20:35.616 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/juanmnl.vscode-theme-1984-0.3.4: juanmnl.vscode-theme-1984
+2024-12-17 14:20:35.653 [info] Renamed to /home/languagedev/.vscode/extensions/juanmnl.vscode-theme-1984-0.3.4
+2024-12-17 14:20:35.786 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-17 14:20:36.212 [info] Extension signature verification result for s-nlf-fh.glassit: Success. Executed: true. Duration: 10050ms.
+2024-12-17 14:20:36.448 [info] Extension signature verification result for ecmel.vscode-html-css: Success. Executed: true. Duration: 10466ms.
+2024-12-17 14:20:36.501 [info] Extension signature verification result for dracula-theme.theme-dracula: Success. Executed: true. Duration: 9865ms.
+2024-12-17 14:20:36.676 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/ecmel.vscode-html-css-2.0.11: ecmel.vscode-html-css
+2024-12-17 14:20:36.715 [info] Extension signature verification result for xabikos.javascriptsnippets: Success. Executed: true. Duration: 10166ms.
+2024-12-17 14:20:36.739 [info] Renamed to /home/languagedev/.vscode/extensions/ecmel.vscode-html-css-2.0.11
+2024-12-17 14:20:36.855 [info] Extension signature verification result for rodrigovallades.es7-react-js-snippets: Success. Executed: true. Duration: 10823ms.
+2024-12-17 14:20:36.872 [info] Extension signature verification result for bracketpaircolordlw.bracket-pair-color-dlw: Success. Executed: true. Duration: 10869ms.
+2024-12-17 14:20:36.896 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-17 14:20:36.915 [info] Extension signature verification result for steoates.autoimport: Success. Executed: true. Duration: 10043ms.
+2024-12-17 14:20:37.031 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+2024-12-17 14:20:37.044 [info] Extension signature verification result for christian-kohler.path-intellisense: Success. Executed: true. Duration: 10224ms.
+2024-12-17 14:20:37.077 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/dracula-theme.theme-dracula-2.25.1: dracula-theme.theme-dracula
+2024-12-17 14:20:37.094 [info] Renamed to /home/languagedev/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+2024-12-17 14:20:37.118 [info] Renamed to /home/languagedev/.vscode/extensions/dracula-theme.theme-dracula-2.25.1
+2024-12-17 14:20:37.179 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/bracketpaircolordlw.bracket-pair-color-dlw-0.0.6: bracketpaircolordlw.bracket-pair-color-dlw
+2024-12-17 14:20:37.209 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-17 14:20:37.212 [info] Extension signature verification result for bradlc.vscode-tailwindcss: Success. Executed: true. Duration: 10103ms.
+2024-12-17 14:20:37.220 [info] Extension signature verification result for christian-kohler.npm-intellisense: Success. Executed: true. Duration: 10430ms.
+2024-12-17 14:20:37.221 [info] Extension signature verification result for xabikos.reactsnippets: Success. Executed: true. Duration: 10716ms.
+2024-12-17 14:20:37.236 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/rodrigovallades.es7-react-js-snippets-1.9.3: rodrigovallades.es7-react-js-snippets
+2024-12-17 14:20:37.257 [info] Extension signature verification result for yzhang.markdown-all-in-one: Success. Executed: true. Duration: 10231ms.
+2024-12-17 14:20:37.271 [info] Renamed to /home/languagedev/.vscode/extensions/bracketpaircolordlw.bracket-pair-color-dlw-0.0.6
+2024-12-17 14:20:37.296 [info] Extension signature verification result for pkief.material-icon-theme: Success. Executed: true. Duration: 10221ms.
+2024-12-17 14:20:37.300 [info] Renamed to /home/languagedev/.vscode/extensions/rodrigovallades.es7-react-js-snippets-1.9.3
+2024-12-17 14:20:37.335 [info] Extension signature verification result for streetsidesoftware.code-spell-checker: Success. Executed: true. Duration: 10196ms.
+2024-12-17 14:20:37.373 [info] Extension signature verification result for rvest.vs-code-prettier-eslint: Success. Executed: true. Duration: 10125ms.
+2024-12-17 14:20:37.395 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-17 14:20:37.437 [info] Extension signature verification result for formulahendry.auto-close-tag: Success. Executed: true. Duration: 10271ms.
+2024-12-17 14:20:37.621 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Executed: true. Duration: 11045ms.
+2024-12-17 14:20:37.730 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/xabikos.reactsnippets-2.4.0: xabikos.reactsnippets
+2024-12-17 14:20:37.749 [info] Renamed to /home/languagedev/.vscode/extensions/xabikos.reactsnippets-2.4.0
+2024-12-17 14:20:37.785 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-17 14:20:37.824 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/formulahendry.auto-close-tag-0.5.15: formulahendry.auto-close-tag
+2024-12-17 14:20:37.836 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2024-12-17 14:20:37.843 [info] Renamed to /home/languagedev/.vscode/extensions/formulahendry.auto-close-tag-0.5.15
+2024-12-17 14:20:37.855 [info] Renamed to /home/languagedev/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10
+2024-12-17 14:20:37.902 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/s-nlf-fh.glassit-0.2.6: s-nlf-fh.glassit
+2024-12-17 14:20:37.928 [info] Renamed to /home/languagedev/.vscode/extensions/s-nlf-fh.glassit-0.2.6
+2024-12-17 14:20:37.929 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5: christian-kohler.npm-intellisense
+2024-12-17 14:20:37.950 [info] Renamed to /home/languagedev/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5
+2024-12-17 14:20:38.012 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2: yzhang.markdown-all-in-one
+2024-12-17 14:20:38.034 [info] Renamed to /home/languagedev/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2
+2024-12-17 14:20:38.046 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/christian-kohler.path-intellisense-2.10.0: christian-kohler.path-intellisense
+2024-12-17 14:20:38.068 [info] Renamed to /home/languagedev/.vscode/extensions/christian-kohler.path-intellisense-2.10.0
+2024-12-17 14:20:38.111 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.16: bradlc.vscode-tailwindcss
+2024-12-17 14:20:38.121 [info] Renamed to /home/languagedev/.vscode/extensions/bradlc.vscode-tailwindcss-0.12.16
+2024-12-17 14:20:38.332 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0: rvest.vs-code-prettier-eslint
+2024-12-17 14:20:38.349 [info] Renamed to /home/languagedev/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0
+2024-12-17 14:20:38.434 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-17 14:20:38.719 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/streetsidesoftware.code-spell-checker-4.0.21: streetsidesoftware.code-spell-checker
+2024-12-17 14:20:38.770 [info] Renamed to /home/languagedev/.vscode/extensions/streetsidesoftware.code-spell-checker-4.0.21
+2024-12-17 14:20:38.855 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-17 14:20:39.319 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/pkief.material-icon-theme-5.15.0: pkief.material-icon-theme
+2024-12-17 14:20:39.356 [info] Renamed to /home/languagedev/.vscode/extensions/pkief.material-icon-theme-5.15.0
+2024-12-17 14:20:39.423 [info] Extracted extension to file:///home/languagedev/.vscode/extensions/steoates.autoimport-1.5.4: steoates.autoimport
+2024-12-17 14:20:39.456 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/languagedev/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-17 14:20:39.464 [info] Renamed to /home/languagedev/.vscode/extensions/steoates.autoimport-1.5.4
+2024-12-17 14:20:39.495 [info] Extension installed successfully: juanmnl.vscode-theme-1984 vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.495 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.503 [info] Extension installed successfully: xabikos.javascriptsnippets vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.506 [info] Extension installed successfully: dracula-theme.theme-dracula vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.506 [info] Extension installed successfully: bracketpaircolordlw.bracket-pair-color-dlw vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.506 [info] Extension installed successfully: rodrigovallades.es7-react-js-snippets vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.507 [info] Extension installed successfully: xabikos.reactsnippets vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.507 [info] Extension installed successfully: formulahendry.auto-close-tag vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.507 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.507 [info] Extension installed successfully: s-nlf-fh.glassit vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.507 [info] Extension installed successfully: christian-kohler.npm-intellisense vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.508 [info] Extension installed successfully: yzhang.markdown-all-in-one vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.508 [info] Extension installed successfully: christian-kohler.path-intellisense vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.508 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.508 [info] Extension installed successfully: rvest.vs-code-prettier-eslint vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.508 [info] Extension installed successfully: streetsidesoftware.code-spell-checker vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.508 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json
+2024-12-17 14:20:39.509 [info] Extension installed successfully: steoates.autoimport vscode-userdata:/home/languagedev/.vscode/extensions/extensions.json

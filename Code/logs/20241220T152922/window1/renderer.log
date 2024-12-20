@@ -1,0 +1,8 @@
+2024-12-20 15:29:23.280 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-20 15:29:23.280 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-20 15:29:23.280 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-20 15:29:24.270 [info] Started local extension host with pid 6871.
+2024-12-20 15:29:26.592 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2024-12-20 15:29:27.388 [info] Settings Sync: Token updated for the account language-dev243
+2024-12-20 15:29:27.465 [info] Settings Sync: Account status changed from uninitialized to available
+2024-12-20 15:29:29.363 [info] [perf] Render performance baseline is 120ms

@@ -1,0 +1,5 @@
+2024-12-17 14:18:08.077 [info] update#setState idle
+2024-12-17 14:18:38.084 [info] update#setState checking for updates
+2024-12-17 14:18:38.268 [info] update#setState idle
+2024-12-17 18:05:12.613 [info] Extension host with pid 2024 exited with code: 0, signal: unknown.
+2024-12-17 18:05:12.675 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/editor/common/services/editorSimpleWorkerMain.js#TextEditorWorker

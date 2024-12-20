@@ -1,0 +1,18 @@
+2024-12-18 19:40:38.703 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-18 19:40:38.704 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-18 19:40:38.704 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-18 19:40:39.840 [info] Started local extension host with pid 4173.
+2024-12-18 19:40:41.824 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2024-12-18 19:40:43.037 [info] Settings Sync: Token updated for the account language-dev243
+2024-12-18 19:40:43.038 [info] Settings Sync: Account status changed from uninitialized to available
+2024-12-18 19:40:43.381 [error] [network] #14: https://www.vscode-unpkg.net/_gallery/s-nlf-fh/glassit/latest - error GET Failed to fetch
+2024-12-18 19:40:43.383 [error] [network] #13: https://www.vscode-unpkg.net/_gallery/rvest/vs-code-prettier-eslint/latest - error GET Failed to fetch
+2024-12-18 19:40:43.384 [error] [network] #10: https://www.vscode-unpkg.net/_gallery/juanmnl/vscode-theme-1984/latest - error GET Failed to fetch
+2024-12-18 19:40:43.385 [error] [network] #8: https://www.vscode-unpkg.net/_gallery/ecmel/vscode-html-css/latest - error GET Failed to fetch
+2024-12-18 19:40:44.053 [info] [perf] Render performance baseline is 81ms
+2024-12-18 19:40:53.284 [error] [network] #19: https://www.vscode-unpkg.net/_gallery/yzhang/markdown-all-in-one/latest - error GET Fetch timeout: 10000ms
+2024-12-18 19:41:07.511 [error] [network] #22: https://www.vscode-unpkg.net/_gallery/bracketpaircolordlw/bracket-pair-color-dlw/latest - error GET Failed to fetch
+2024-12-18 19:41:07.535 [error] [network] #26: https://www.vscode-unpkg.net/_gallery/dbaeumer/vscode-eslint/latest - error GET Failed to fetch
+2024-12-18 19:41:07.552 [error] [network] #28: https://www.vscode-unpkg.net/_gallery/ecmel/vscode-html-css/latest - error GET Failed to fetch
+2024-12-18 19:41:07.559 [error] [network] #29: https://www.vscode-unpkg.net/_gallery/formulahendry/auto-close-tag/latest - error GET Failed to fetch
+2024-12-18 19:41:07.579 [error] [network] #32: https://www.vscode-unpkg.net/_gallery/rodrigovallades/es7-react-js-snippets/latest - error GET Failed to fetch
