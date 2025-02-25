@@ -1,5 +1,8 @@
 # notes
 
+
+## generell
+
 Generate color scheme
 
 
@@ -52,5 +55,28 @@ https://www.reddit.com/r/unixporn/comments/x34wc7/grub_amber_crt_terminal_theme/
 
 Workspaces
 https://www.reddit.com/r/unixporn/comments/tdw3ro/berry_another_bytesized_window_manager_rice/
+
+
+## polybar 
+https://www.reddit.com/r/unixporn/s/PUirPFa4Fn
+
+https://www.reddit.com/r/unixporn/s/Xo7vDD3kJz
+
+https://www.reddit.com/r/unixporn/s/kMhuCp3d5u
+
+https://www.reddit.com/r/unixporn/s/0aGTMJ3wPg
+
+https://www.reddit.com/r/unixporn/s/pcSHQMeymt
+
+https://www.reddit.com/r/unixporn/s/vynA0EUT3P
+
+https://www.reddit.com/r/unixporn/s/WBnLB3WRfR
+
+https://www.reddit.com/r/unixporn/s/Su267bKBdX
+
+
+
+
+
 
 
